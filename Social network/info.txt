@@ -1,0 +1,2 @@
+Language: C++
+IDE: QT creator
